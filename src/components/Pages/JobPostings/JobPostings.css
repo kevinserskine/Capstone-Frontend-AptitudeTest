@@ -1,0 +1,8 @@
+.main-container {
+    overflow-y:scroll;
+}
+
+.main-container::-webkit-scrollbar {
+    width: 0px;
+    display: none;
+}
